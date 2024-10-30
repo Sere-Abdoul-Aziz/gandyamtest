@@ -1,0 +1,33 @@
+{
+  "gandyamPay": {
+    "Burkina Faso_to_Burkina Faso": "1 XOF",
+    "Burkina Faso_to_Benin": "1 XOF",
+    "Burkina Faso_to_Cameroon": "1 XAF",
+    "Burkina Faso_to_China": "0.0111 CNY",
+    "Burkina Faso_to_United States": "0.00164 USD",
+    "Burkina Faso_to_Côte d'Ivoire": "1 XOF",
+    "Burkina Faso_to_Togo": "1 XOF",
+    "Burkina Faso_to_Canada": "0.002 CAD"
+  },
+  "transfertChapChap": {
+    "Canada_to_Bénin": "436.01",
+    "Canada_to_Burkina Faso": "436.01",
+    "Canada_to_Cameroun": "436.01",
+    "Canada_to_Guinée": "6134.49",
+    "Canada_to_Côte d'Ivoire": "436.01",
+    "Canada_to_Mali": "436.01",
+    "Canada_to_Sénégal": "436.01",
+    "Canada_to_Togo": "436.01",
+    "Chine_to_Canada": "0.183727",
+    "Chine_to_Burkina Faso": "82.431",
+    "Bénin_to_Canada": "0.00214939",
+    "Burkina Faso_to_Canada": "0.00218387",
+    "Cameroun_to_Canada": "0.00211468",
+    "Congo_to_Canada": "1.31496",
+    "Guinée_to_Canada": "0.000150101",
+    "Côte d'Ivoire_to_Canada": "0.00211491",
+    "Mali_to_Canada": "0.00215169",
+    "Sénégal_to_Canada": "0.00216089",
+    "Togo_to_Canada": "0.0021379"
+  }
+}
