@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
           visualDensity: VisualDensity.adaptivePlatformDensity,
           textTheme: TextTheme(
-            headline1: TextStyle(fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.blue),
-            bodyText1: TextStyle(fontSize: 16.0, color: Colors.black),
+            headlineLarge: TextStyle(fontSize: 32.0, fontWeight: FontWeight.bold, color: Colors.blue),
+            bodyLarge: TextStyle(fontSize: 16.0, color: Colors.black),
           ),
         ),
         home: MyHomePage(),
@@ -186,7 +186,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
               ),
               SizedBox(height: 32),
-              Text('Recent Transactions', style: Theme.of(context).textTheme.headline6),
+              Text('Recent Transactions', style: Theme.of(context).textTheme.headlineLarge),
               SizedBox(height: 16),
               Expanded(
                 child: DefaultTabController(
